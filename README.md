@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DonaghyKong
 - 👀 I’m interested in test automation
-- 🌱 I’m currently learning python with Selenium and Javascript with Cypress
+- 🌱 I’m currently using python with Selenium and Javascript with Cypress
 - 📫 How to reach me https://twitter.com/kevindonaghy84
 
 
